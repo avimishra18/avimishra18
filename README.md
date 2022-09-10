@@ -1,4 +1,4 @@
-### Namaste, I'm Avi Mishra <img src="https://raw.githubusercontent.com/avimishra18/avimishra18/master/assets/wave.gif" width="30px">
+### [Namaste, I'm Avi Mishra](https://avimishra18.github.io) <img src="https://raw.githubusercontent.com/avimishra18/avimishra18/master/assets/wave.gif" width="30px">
 
 - 👨🏻‍💻 I’m working as a front-end developer!
 - 🌱 I’m learning back-end development.
