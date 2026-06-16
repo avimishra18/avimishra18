@@ -1,12 +1,12 @@
 ### [Namaste, I'm Avi Mishra](https://avimishra18.github.io) <img src="https://raw.githubusercontent.com/avimishra18/avimishra18/master/assets/wave.gif" width="30px">
 
-- 👨🏻‍💻 I’m working as a front-end developer!
-- 🌱 I’m learning back-end development.
-- 🚀 I’m looking to collaborate on an app solving a Real World Problem!
-- 🤔 I’m looking for help on how to master Data Structures & Algorithms?
-- 💬 Ask me about React!
-- 📫 How to reach me: [Contact Form](https://avimishra18.github.io/#contact) or email!
-- ⚽ Fun fact: Huge fan of FC Bayern München!
+- 👨🏻‍💻 I’m currently working as a Senior Software Engineer (SDE 3), specializing in high-performance frontend architectures.
+- 🌱 I’m deep-diving into high-throughput distributed systems and advanced cloud design patterns.
+- 🚀 I’m looking to collaborate on open-source initiatives, developer tooling, or scalable real-world architectures!
+- ⚙️ I'm focused on optimizing system design, performance bottlenecks, and algorithmic efficiency.
+- 💬 Ask me about React, TypeScript performance, or front-end system design!
+- 📫 How to reach me: [mishra.avi18@gmail.com](mailto:mishra.avi18@gmail.com) OR [Linkedin](https://www.linkedin.com/in/avimishra18/)
+- ⚽ Fun fact: Mia San Mia! Huge fan of FC Bayern München and obsessed with football tactics.
 
 ### 🫂 Open Source Projects
 
